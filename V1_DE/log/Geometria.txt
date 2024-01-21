@@ -1,0 +1,75 @@
+L'angolo di pressione frontale è: 0.37253
+L'angolo di d'elica fondamentale è: 0.3272
+Il tuo fattore moltiplicativo è: 0.5
+Le caratteristiche del motore in ingresso saranno le seguenti:
+--------------  --------
+Pin [W]         15000
+Pre [W]         14261.9
+Velrot [rpm]     6500
+Velrot [rad/s]    680.68
+tau                 0.45
+--------------  --------
+Il rapporto di trasmissione richiesto è: 0.45
+In prima approssimazione, il minimo numero di denti di pignone e ruota è: 14 17
+Con un fattore di ricoprimento d'evolvente associato di: 1.65
+Il minimo numero di denti intagliabili per pignone e ruota è: 14, 17
+Il minimo numero di denti PRATICO di pignone e ruota è: 11, 14
+Con un fattore di ricoprimento associato di: 1.54
+Si scelgono tuttavia un numero di denti di pignone e ruota pari a: 19, 42
+In modo da garantire un fattore di ricoprimento pari a: 3.53
+Ed un rapporto di riduzione velocità pari a: 0.452
+A queste ruote si associano le seguenti caratteristiche
+                    Pignone    Ruota
+----------------  ---------  -------
+M_t [Nm]              20.95    46.32
+Velocità [rad/s]     680.68   307.93
+I moduli associati secondo Lewis sono perciò: 2.808 2.607
+Il modulo frontale è: 3.2
+A queste ruote si associano le seguenti caratteristiche SUL PIANO FRONTALE
+                                Pignone  Ruota
+----------------------------  ---------  -------
+angolo di pressione frontale    0.37253  =
+angolo d'elica                  0.34907  =
+andolo d'elica fondamentale     0.3272   =
+numero di denti                19        42
+modulo frontale                 3.2      =
+addendum                        3        =
+dedendum                        3.75     =
+Primitive [mm]                 30.33     67.04
+Testa [mm]                     33.33     70.04
+Piede [mm]                     26.58     63.29
+Fondamentali [mm]              28.5      63.0
+larghezza di fascia            30        =
+Passo [mm]                      9.42     =
+Interasse [mm]                 97.37     =
+Sp su Prim [mm]                 4.71     =
+A queste ruote si associano le seguenti caratteristiche SUL PIANO NORMALE
+                               Pignone  Ruota
+---------------------------  ---------  -------
+angolo di pressione normale    0.34907  =
+Numero di denti fittizio      23        51
+Modulo normale                 3        =
+addendum                       3        =
+dedendum                       3.75     =
+Primitive [mm]                34.5      76.5
+Testa [mm]                    37.5      79.5
+Piede [mm]                    30.75     72.75
+Fondamentali [mm]             32.42     71.89
+La verifica sullo spessore è superata!
+---------------------  ------
+ev_gamma [rad]         0.0959
+Angolo in testa [rad]  0.545
+Spessore testa [mm]    2.31
+Spessore limite [mm]   0.6
+---------------------  ------
+La verifica sull'interferenza è superata
+           Accesso    Recesso
+-------  ---------  ---------
+Teorico     11.039     24.402
+Reale        6.21       6.24
+Il fattore di ricoprimento è (2.58, [1.42, 1.16])
+Nessuna delle verifiche è superata, è necessaria la correzione!
+           Pignone    Ruota
+-------  ---------  -------
+ksmax        2.166      1.2
+delta k      0.966

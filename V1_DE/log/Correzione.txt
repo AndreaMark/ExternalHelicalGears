@@ -1,0 +1,63 @@
+Il numero di iterazioni è: 3
+Le verifiche sullo strisciamento sono superate!
+           Pignone    Ruota
+-------  ---------  -------
+ksmax        1.025    0.934
+delta k      0.091    0.091
+La verifica sullo spessore è superata!
+                         Pignone    Ruota
+---------------------  ---------  -------
+ev_gamma [rad]           0.1052   0.0572
+Angolo in testa [rad]    0.5649   0.4652
+Spessore testa [mm]      2.45     2.88
+Spessore limite [mm]     0.64141  0.64141
+La verifica sull'interferenza è superata 38.69, 11.0
+           Accesso    Recesso
+-------  ---------  ---------
+Teorico     12.05      26.637
+Reale        4.986      6.011
+Il fattore di ricoprimento è (2.3, [1.2, 1.1])
+A queste ruote si associano le seguenti grandezze caratteristiche CORRETTE FRONTALI
+                                                        Pignone    Ruota
+------------------------------------------------------  ---------  -------
+Coefficienti di correzione                              0.26       0.26
+Angolo di lavoro frontale [rad]                         0.40859    0.40859
+Angolo di lavoro frontale [grad]                        23.41      23.41
+Modulo frontale [mm]                                    3.207      3.207
+Addendum [mm]                                           2.68       1.84
+Dedendum [mm]                                           4.07       4.91
+Raggio primitiva di lavoro [mm]                         31.06      68.65
+Raggio di testa [mm]                                    33.74      70.49
+Raggio di piede [mm]                                    26.99      63.74
+Raggio Fondamentale [mm]                                28.5       63.0
+Distanze tra primitive di lavoro e di taglio            0.907      2.006
+Larghezza di fascia [mm]                                30.0       =
+Spessore su primitiva di taglio [mm]                    5.48       5.67
+Spessore su primitiva di lavoro [mm]                    5.02       4.5
+Interasse [mm]                                          99.71      =
+Gioco radiale [mm]                                      1.86       =
+Angolo di pressione trasversale di riferimento [rad]    0.36954    0.36954
+Angolo di pressione trasversale di funzionamento [rad]  0.42593    0.42593
+Curvatura relativa                                      8.61       8.61
+Accesso                                                 4.99       \
+Recesso                                                 \          6.01
+Fattore di ricoprimento d'evolvente                     1.2        1.2
+A queste ruote si associano le seguenti grandezze caratteristiche CORRETTE NORMALI
+                                   Pignone  Ruota
+-------------------------------  ---------  -------
+Coefficienti di correzione         0.2      0.28
+Angolo di lavoro normale [rad]     0.38395  =
+Angolo di lavoro normale [grad]   21.9984   =
+Modulo normale [mm]                3.014    3.014
+Addendum [mm]                      2.68     1.84
+Dedendum [mm]                      4.07     4.91
+Raggio primitiva di lavoro [mm]   34.66     76.85
+Raggio di testa [mm]              37.34     78.69
+Raggio di piede [mm]              30.59     71.94
+Raggio Fondamentale [mm]          32.13     71.25
+Le forze agenti su queste ruote sono:
+                              Pignone    Ruota
+--------------------------  ---------  -------
+Forze circonferenziali [N]     674.58   674.72
+Forze radiali [N]              292.06   292.12
+Forze assiali [N]              249.49   249.54

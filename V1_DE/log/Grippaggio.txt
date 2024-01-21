@@ -1,0 +1,32 @@
+velocità
+---------------------  -----
+pitch line velocity    21.14
+slip velocity pignone   4.19
+slip velocity ruota     1.57
+---------------------  -----
+flash temperature
+----------------------------------  ---------
+Coefficienti di contatto            34.78
+Thermoelastic factor                19.81
+Approacch factor                     1
+Load sharing factor                  1
+Angle factor                         0.997418
+Posizione adimensionale gammaA      -0.24
+Posizione adimensionale gammaE       0.4
+Geometrical factor1                  0.35
+Geometrical factor2                  0.34
+transverse unit load                32.18
+cumulative velocity vector          17.47
+local relative radius of curvature   2.51
+lubricant factor                     0.81
+roughness factor                     0.95
+Friction coefficient                 0.04
+flash temperature1                   7.87
+flash temperature2                   6.25
+----------------------------------  ---------
+NON è possibile utilizzare la relazione generale 7.20: 0.12, 0.04
+La temperatura flash media: 22.36
+La temperatura all'interfaccia è: 87.1
+Dalla formula sperimentale si ottiene invece: 75.51
+L'olio lubrificante deve resistere alla massima temperatura possibile di: 94.97
+Il rumore prodotto dal riduttore alla distanza di 1m è pari a: 76 dB

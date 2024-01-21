@@ -1,0 +1,109 @@
+CARICO SPECIFICO [N/mm] 28
+MASSA RIDOTTA [kg/mm] 0.01548
+Stiffness parameters, c' & c_gamma
+-------------------------------------------------------  ------
+Minimum value for the flexibility of a pair of teeth qp   0.057
+Theoretical single stiffness c'_th                       17.464
+Correction factor, CM                                     0.8
+Gear blank factor, CR                                     1
+Basic rack factor, CB                                     1.56
+Single stiffness, c'                                     14.87
+Mesh stiffness, c_gammaalpha                             17.1
+-------------------------------------------------------  ------
+Subcritical range 0.389, 0.686
+Dynamic factor in subcritical range
+---  -------
+Cv1  0.32
+Cv2  0.285
+Cv3  0.12973
+BP   0.02
+BF   0.02
+BK   1.79
+K    0.24
+KV   1.09
+---  -------
+Per il calcolo usa il punto b): 2.74
+Face load factors
+----------------------------------  ------
+Mean transverse tangential load Fm  922.97
+KH_beta                               1.01
+NF                                    0.74
+KF_beta                               1
+----------------------------------  ------
+Transverse load factors
+-----------------------------------------------------  -------
+determinant tangential load in a transverse plane FtH  928.874
+KH_alpha                                                 1.04
+KF_alpha                                                 1.04
+-----------------------------------------------------  -------
+Zone factor
+----------------------------------------------------  -------
+Angoli di pressione trasversale di riferimento [rad]  0.36954
+Angolo di pressione trasversale di funzionamento      0.42593
+Fattore di zona ZH                                    2.18
+----------------------------------------------------  -------
+Single pair tooth contact factors, ZB and ZD
+--------------------------------  ----
+Fattore ZD                        1
+Rapporto di condotta d'evolvente  1.2
+Fattore M1                        1.06
+Fattore ZB                        1.06
+--------------------------------  ----
+Elasticity factor, ZE: 189.41
+Contact ratio factor: 0.91
+Auxiliary factor CZL 0.86
+Lubricant factor, ZL: 1.03
+Velocity factor, Zv: 1.04
+Roughness factor, ZR:
+--------------------  ----
+Curvatura relativa    8.6
+Rugosità relativa Rz  3.2
+Rugosità Rz10         3.36
+Roughness factor, ZR  0.99
+--------------------  ----
+Work hardening factor, ZW:
+-------------------------  ------
+Fattore Rz_h                 2.31
+Durezza Brinell            250
+Work hardening factor, ZW    1.17
+-------------------------  ------
+Form factor, YF tab1/2:
+----------------------------------------  --------
+Rapporto di condotto d'evolvente normale   1.34
+Raggio di curvatura alla base              1.125
+Fattore ausiliario E                       0.2036
+Fattore ausiliario G                      -0.595
+Fattore ausiliario H                      -0.9883
+Fattore ausiliario theta                   0.95536
+Numero di iterazioni                       4
+Tooth root normal chord, sFn               2.24
+Tooth root normal chord, normalized        0.75
+Radius of root fillet rhoF                 1.33
+----------------------------------------  --------
+Form factor, YF tab2/2:
+------------------------------  ---------
+dn                              153
+dbn                             143.77
+dan                             157.38
+den                             155.18
+alpha_en                          0.38574
+gamma_e                           0.02936
+alpha_fen                         0.35639
+bending moment arm, hFe           2.64
+bending moment arm, normalized    0.88
+------------------------------  ---------
+Form factor, YF FINAL: 9.42
+Stress correction factor, YS:
+---------------------------------------  ----
+PARAMETRO D'INTAGLIO qs                  0.84
+L                                        0.85
+FATTORE DI CORREZIONE DELLA TENSIONE YS  1.26
+---------------------------------------  ----
+Tensione a fondo dente preliminare [N/mm] = [MPa]: 88.58
+MINIMO SPESSORE DELL'ANELLO [mm] 9
+MASSIMO DIAMETRO DELL'ALBERO [mm] 109
+Virtual conctat ratio of a spur gear 1.34
+La verifica A FLESSIONE STATICA è superata! 105.9, 512.57
+La verifica A FLESSIONE è superata! 105.9, 298.6
+La verifica A PITTING STATICA è superata! 363.12, 363.12, 1584.32
+La verifica A PITTING è superata! 363.12, 363.12, 1048.5
